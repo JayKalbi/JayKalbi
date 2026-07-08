@@ -66,12 +66,14 @@ An innovative machine learning-based automation and gesture control system empha
 ### 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JayKalbi&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JayKalbi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JayKalbi&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/JayKalbi)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JayKalbi&theme=tokyonight&hide_border=true)](https://github.com/JayKalbi)
+
 <br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayKalbi&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JayKalbi&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)](https://github.com/JayKalbi)
+
 </div>
 
 ---
