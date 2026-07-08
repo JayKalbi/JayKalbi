@@ -1,27 +1,85 @@
-# 💫 About Me:
-🎓 Computer Engineering Student | 💻 Data Science & Machine Learning Enthusiast<br>I specialize in applying data-driven approaches to solve complex problems and build innovative solutions. With hands-on experience in AI, analytics, and machine learning, I’m passionate about turning data into actionable insights.<br><br>Skills 🛠️<br>Programming Languages: 🐍 Python, 📊 SQL<br><br>Machine Learning Frameworks: 🤖 Scikit-learn, 🌳 XGBoost<br><br>Deep Learning Tools: 👁️ OpenCV, ✋ MediaPipe<br><br>Big Data Technologies: 🐘 Hadoop<br><br>Data Visualization: 📈 Tableau, 📉 Matplotlib<br><br>Projects 🚀<br>Gesture Pilot ✨<br>A machine learning-based hand gesture control system. Currently working on enhancing its scalability and cost-efficiency. Planning to file an IPR patent for this innovative solution.<br><br>Emotion-Based Song Recommendation 🎵<br>Built a system that recommends songs based on user emotions using sentiment analysis and recommendation algorithms.<br><br>Sales Forecasting Models 📊<br>Developed predictive models to forecast sales trends, helping businesses make data-driven decisions.<br><br>What Drives Me 🔥<br>I’m passionate about AI, data science, and continuous learning. I thrive on solving real-world challenges and contributing to the ever-evolving field of artificial intelligence.<br><br>Get in Touch 📬<br>Let’s connect and collaborate!<br><br>LinkedIn: https://www.linkedin.com/in/jaykalbi<br><br>Portfolio: https://jaydkalbi2004.wixsite.com/portfolio<br><br>Email: 📧 jdkalbi18@gmail.com<br><br>GitHub: 🌐 https://github.com/JayKalbi<br><br>Fun Fact 💡<br>When I’m not coding, you’ll find me exploring new music 🎧 or brainstorming innovative project ideas!<br><br>
+# 👨‍💻 Hi, I'm Jay Kalbi
 
+<div align="left">
+  <img src="https://komarev.com/ghpvc/?username=JayKalbi&label=Profile%20views&color=0e75b6&style=flat" alt="JayKalbi" />
+</div>
+<br>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jaykalbi18) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/JayKalbi) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/JayKalbi18) 
+**M.Tech in Artificial Intelligence @ NMIMS | Generative AI & Machine Learning Engineer**
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=plastic&logo=apachespark&logoColor=black) ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=plastic&logo=apachehive&logoColor=black) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=plastic&logo=apachehadoop&logoColor=black) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=plastic&logo=streamlit&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=plastic&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=plastic&logo=nVIDIA&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=JayKalbi&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=JayKalbi&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JayKalbi&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=JayKalbi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=JayKalbi&limit=5&theme=dark&combine_all_yearly_contributions=true)
+I specialize in engineering data-driven solutions that bridge the gap between complex AI algorithms and production-grade applications. With a strong foundation in **Generative AI, Large Language Models (LLMs), NLP, and MLOps**, I am passionate about building intelligent systems—from edge computing automations to fine-tuned quantitative risk models.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=JayKalbi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🚀 About Me & What I Do
+- 🧠 **Generative AI & LLMs:** Fine-tuning Large Language Models (using techniques like QLoRA) and developing complex NLP pipelines for enterprise solutions.
+- ⚙️ **MLOps & Engineering:** Designing scalable machine learning workflows, optimizing databases, and deploying models to production environments.
+- 🔋 **Edge Computing:** Extensive experience in hardware-software integration, specifically deploying intelligent systems on NVIDIA Jetson Nano.
+- 📈 **Predictive Analytics:** Building robust predictive pipelines for classification, forecasting, and risk assessment.
+
+---
+
+### 💼 Professional Experience
+
+**Machine Learning Intern | HPParam IT Solutions**
+- Architected and deployed NLP-based email classification systems to automate and streamline communication pipelines.
+- Applied advanced machine learning techniques to process and analyze unstructured text data efficiently.
+
+**Backend Engineering Intern | TechnoGuide Infosoft**
+- Contributed to backend architecture and database optimization.
+- Engineered robust API integrations and improved system scalability for data-heavy applications.
+
+---
+
+### 🏆 Flagship Projects
+
+#### 🏦 HybridCreditLLM
+A production-grade credit risk system designed to revolutionize financial risk assessment. 
+- **Tech:** Python, PyTorch, LLMs, QLoRA
+- **Details:** Engineered a hybrid pipeline that seamlessly integrates traditional structured financial data with fine-tuned Large Language Models using QLoRA to generate highly accurate risk predictions and insights.
+
+#### ✨ Intelligent Edge Automation System *(SSIP-Funded)*
+An innovative machine learning-based automation and gesture control system emphasizing edge computing. 
+- **Tech:** OpenCV, Jetson Nano, Deep Learning
+- **Details:** Spearheaded the hardware-software integration, successfully deploying the optimized system on an NVIDIA Jetson Nano for real-time inference. Currently scaling the architecture with plans to file an IPR patent.
+
+#### 🎵 Emotion-Based Recommendation Engine & Sales Forecasting Models
+- Built an intelligent recommendation system utilizing sentiment analysis to map user emotions to customized media outputs.
+- Developed end-to-end predictive modeling pipelines to forecast market trends and drive data-backed business decisions.
+
+---
+
+### 💻 Technical Arsenal
+
+**Languages & Core**  
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**AI, GenAI & Data Science**  
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)  
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+
+**MLOps, Hardware & Backend**  
+![MLflow](https://img.shields.io/badge/MLflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NVIDIA](https://img.shields.io/badge/NVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+---
+
+### 📈 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JayKalbi&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JayKalbi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayKalbi&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</div>
+
+---
+
+### 📬 Let's Connect
+
+I'm always open to discussing LLM architectures, AI in finance, or exciting collaborative projects. Let's build something great!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/JayKalbi) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge&logo=wix&logoColor=white)](https://jaydkalbi2004.wixsite.com/portfolio) 
+[![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jdkalbi18@gmail.com)
