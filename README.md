@@ -1,173 +1,213 @@
-# 👋 Hi, I'm Jay Kalbi
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px"> Hi, I'm Jay Kalbi
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=M.Tech+Artificial+Intelligence+Student;Generative+AI+Engineer;Machine+Learning+Engineer;LLM+Developer;Data+Science+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+Engineer;Generative+AI+Developer;Machine+Learning+Engineer;LLM+Engineer;Building+AI+for+Real-World+Applications" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JayKalbi&label=Profile+Views&color=0e75b6&style=flat-square"/>
+  <img src="https://komarev.com/ghpvc/?username=JayKalbi&label=Profile%20Views&color=0e75b6&style=flat-square"/>
 </p>
 
 ---
 
-# 💫 About Me
+# 👨‍💻 About Me
 
-🎓 **M.Tech in Artificial Intelligence @ NMIMS**
+I'm an AI Engineer currently pursuing **M.Tech in Artificial Intelligence at NMIMS MPSTME**.
 
-I am passionate about building intelligent systems powered by **Generative AI, Large Language Models, Machine Learning, NLP, and MLOps**.
+My work focuses on designing **production-ready AI systems** that combine classical Machine Learning with **Generative AI, Large Language Models, Explainable AI, and MLOps**.
 
-My interests include:
+I enjoy building intelligent applications that solve real-world business problems—from financial risk assessment and NLP systems to scalable ML deployment pipelines and edge AI solutions.
 
-- 🤖 Large Language Models (LLMs)
-- 🧠 Generative AI Applications
-- 📊 Machine Learning & Deep Learning
-- 📈 Predictive Analytics
-- ⚙️ MLOps & Model Deployment
-- 🚀 AI-powered Backend Systems
-- 🔋 Edge AI on NVIDIA Jetson Nano
+### Areas of Interest
 
-I enjoy transforming research ideas into scalable, production-ready AI applications.
+- 🤖 Generative AI
+- 🧠 Large Language Models (LLMs)
+- 💬 Natural Language Processing
+- 📊 Machine Learning
+- 📈 Explainable AI (XAI)
+- ⚙️ MLOps & CI/CD
+- 🚀 AI System Design
+- 🔋 Edge AI
 
 ---
 
 # 💼 Experience
 
-## Machine Learning Intern
-**HPParam IT Solutions**
+## Machine Learning Intern — HPParam IT Solutions
 
-- Developed NLP-based email classification systems.
-- Built ML pipelines for text processing and automation.
-- Improved efficiency using machine learning techniques.
+- Built NLP-powered email classification systems.
+- Developed intelligent text processing pipelines.
+- Worked on real-world machine learning solutions for business automation.
 
 ---
 
-## Backend Engineering Intern
-**TechnoGuide Infosoft**
+## Backend Engineering Intern — TechnoGuide Infosoft
 
-- Backend API development
-- Database optimization
-- Third-party API integration
-- Performance improvements
+- Backend Development
+- Database Design & Optimization
+- REST API Development
+- Third-party API Integration
 
 ---
 
 # 🚀 Featured Projects
 
-## 🏦 Hybrid Credit Risk LLM
+## 🏛 Institutional Risk Engine
 
-A production-grade AI system for intelligent credit risk assessment by combining structured financial data with fine-tuned LLMs.
+A next-generation AI platform for institutional credit risk assessment that combines traditional machine learning with Large Language Models.
+
+### Highlights
+
+- Fine-tuned Mistral-7B using QLoRA
+- Hybrid ML + LLM architecture
+- Explainable AI using SHAP
+- EU AI Act compliant design
+- Financial Risk Assessment
+- Interactive Streamlit dashboard
 
 **Tech Stack**
 
-- Python
-- PyTorch
-- Transformers
-- QLoRA
-- Hugging Face
-- Streamlit
+`Python` `PyTorch` `Transformers` `QLoRA` `SHAP` `XGBoost` `Streamlit`
+
+🔗 Repository:
+https://github.com/JayKalbi/institutional-risk-engine
+
+---
+
+## 🏦 Credit Risk LLM
+
+A production-ready credit risk prediction system leveraging LLMs and structured financial data.
+
+### Features
+
+- PEFT Fine-Tuning
+- Hugging Face Transformers
+- Streamlit UI
+- Model Deployment
+- Financial Risk Prediction
 
 🔗 Repository:
 https://github.com/JayKalbi/credit-risk-llm
 
 ---
 
-## ✨ Gesture Pilot (SSIP Funded)
+## 📧 Email Classification using LSTM
 
-Award-winning AI gesture recognition system built using computer vision and deployed on NVIDIA Jetson Nano.
+Deep learning-based NLP application for automatic email categorization.
 
-### Highlights
+### Features
 
-- Real-time gesture recognition
+- Text preprocessing
+- LSTM Neural Network
+- TensorFlow/Keras
+- Email Classification
+- NLP Pipeline
+
+🔗 Repository:
+https://github.com/JayKalbi/Email-Classification-with-LSTM
+
+---
+
+## ☁ AWS CI/CD ML Project
+
+Machine Learning deployment pipeline demonstrating modern MLOps practices.
+
+### Features
+
+- Docker
+- GitHub Actions
+- AWS Deployment
+- Continuous Integration
+- Continuous Delivery
+
+🔗 Repository:
+https://github.com/JayKalbi/aws-ci-cd-mlproject
+
+---
+
+## 🛒 Ecommerce Web Application
+
+Full-stack web application featuring authentication, product management, and responsive UI.
+
+🔗 Repository:
+https://github.com/JayKalbi/Ecommerce-WebApp
+
+---
+
+## ✨ Gesture Pilot *(SSIP Funded)*
+
+Award-winning Computer Vision project for intelligent gesture recognition and edge deployment.
+
+### Achievements
+
+- ₹1,20,000 SSIP Grant
+- NVIDIA Jetson Nano Deployment
 - OpenCV + MediaPipe
-- Edge AI deployment
-- Automation system
+- Real-time Gesture Recognition
 - Proposed IPR Patent
 
 ---
 
-## 🎵 Emotion-Based Music Recommendation System
+# 🏆 Achievements
 
-AI application that detects facial emotions and recommends songs using Spotify APIs.
-
-Technologies:
-
-- Python
-- DeepFace
-- OpenCV
-- Streamlit
-
----
-
-## 📈 Sales Forecasting Models
-
-Machine Learning pipelines for predictive analytics and business forecasting.
+- 🥇 Awarded **₹1,20,000 SSIP Grant** for Gesture Pilot.
+- 🎓 Pursuing **M.Tech in Artificial Intelligence** at NMIMS.
+- 💼 Machine Learning Intern at HPParam IT Solutions.
+- 💼 Backend Engineering Intern at TechnoGuide Infosoft.
+- 🚀 Built multiple end-to-end AI applications across NLP, Finance, and Computer Vision.
 
 ---
 
 # 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,fastapi,flask,java,cpp,postgres,mongodb,mysql,git,github,docker,linux,vscode&perline=9"/>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,fastapi,flask,java,cpp,mysql,postgres,mongodb,docker,git,github,linux,vscode,aws&perline=9"/>
 </p>
 
----
+### AI & Data Science
 
-# 📈 GitHub Analytics
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=JayKalbi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=JayKalbi&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayKalbi&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+- Transformers
+- Hugging Face
+- LangChain
+- SHAP
+- NumPy
+- Pandas
+- Matplotlib
+- Scikit-Learn
 
 ---
 
-# 🏆 GitHub Trophies
+# 📊 GitHub Analytics
+
+> **Note:** If these cards do not load, it's due to the public GitHub Stats service being unavailable. Deploying a personal instance is recommended for long-term reliability.
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=JayKalbi&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</p>
-
----
-
-# 📊 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JayKalbi&theme=tokyo-night&hide_border=true"/>
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=JayKalbi&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
 # 🎯 Current Focus
 
-- Fine-tuning Large Language Models
+- Agentic AI
 - Retrieval-Augmented Generation (RAG)
-- Agentic AI Systems
-- Credit Risk AI
-- AI for Finance
-- MLOps Pipelines
-- Deep Learning Research
+- Financial AI
+- Explainable AI
+- LLM Fine-Tuning
+- AI System Design
+- MLOps
+- Multi-Agent Systems
 
 ---
 
-# 📚 Currently Learning
+# 🌱 Currently Learning
 
-- Advanced Generative AI
-- Reinforcement Learning
+- Advanced LLM Optimization
 - AI Agents
-- Multi-Agent Systems
-- Vector Databases
-- Kubernetes for ML Deployment
+- LangGraph
+- Kubernetes for ML
+- Distributed Training
+- Production AI Systems
 
 ---
 
@@ -192,5 +232,5 @@ Machine Learning pipelines for predictive analytics and business forecasting.
 ---
 
 <p align="center">
-⭐ If you like my work, consider starring my repositories and connecting with me!
+<i>"Building intelligent systems that create real-world impact through AI."</i>
 </p>
