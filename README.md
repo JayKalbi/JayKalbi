@@ -179,7 +179,7 @@ Award-winning Computer Vision project for intelligent gesture recognition and ed
 
 # 📊 GitHub Analytics
 
-> **Note:** If these cards do not load, it's due to the public GitHub Stats service being unavailable. Deploying a personal instance is recommended for long-term reliability.
+
 
 <p align="center">
 <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=JayKalbi&theme=tokyonight&hide_border=true"/>
