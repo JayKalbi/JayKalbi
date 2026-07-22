@@ -24,44 +24,45 @@ Currently pursuing my **M.Tech in Artificial Intelligence at NMIMS MPSTME**, I f
 
 - 🎓 **Education**: M.Tech in AI @ NMIMS MPSTME (2026–Present) | B.Tech in Computer Engineering @ BVM (CGPI: 8.84)
 - 💼 **Experience**: Ex-Machine Learning Intern @ HPParam IT Solutions | Ex-Backend Intern @ TechnoGuide Infosoft
-- 🎯 **Current Focus**: Agentic RAG, Multi-Agent Orchestration, Financial AI Compliance (EU AI Act), & Quantized LLM Fine-tuning (QLoRA)
+- 🎯 **Current Focus**: Agentic RAG, Multi-Agent Orchestration, Financial AI Compliance (EU AI Act / Basel III), & Quantized LLM Fine-tuning (QLoRA)
 
 ---
 
 ### 🚀 Featured Flagship Projects
 
-#### 🏛️ [Institutional Risk Engine / Credit Risk LLM](https://github.com/JayKalbi/institutional-risk-engine)
-> *A production-grade, dual-branch credit default prediction engine fusing classical ML with fine-tuned LLMs and strict regulatory auditability.*
-- ⚙️ **Architecture**: Fuses LightGBM (structured financial data) with 4-bit QLoRA fine-tuned **Mistral-7B-Instruct** (unstructured qualitative notes) via a Logistic Regression Meta-Learner ($w_l = 1.423, w_t = 0.687$).
-- 📊 **Performance**: Achieved **AUC-ROC of 0.8472** and **PR-AUC of 0.6341** on complex credit portfolios.
-- ⚖️ **Compliance & XAI**: Integrated SHAP feature attributions, counterfactual explanations, and demographic fairness audits adhering to **EU AI Act**, **ECOA**, **Basel III**, and **GDPR**.
-- 🛠️ **Tech Stack**: `Python` `PyTorch` `Hugging Face` `QLoRA` `LightGBM` `SHAP` `Streamlit`
+#### 🏛️ [HybridCredit-LLM: Institutional Risk Engine](https://github.com/JayKalbi/institutional-risk-engine)
+> *An enterprise-grade multimodal credit risk assessment platform fusing quantitative tabular ML with Generative AI and strict Basel III regulatory auditability.*
+- ⚙️ **Multimodal Architecture**: Fuses **LightGBM** (processing HMDA tabular data for PD & ECL) with a QLoRA fine-tuned **Mistral-7B / Llama-3.3-70B** (via Groq Inference) for qualitative underwriting memorandums, ensembled via a Logistic Regression Meta-Learner.
+- 📊 **Performance Metrics**: Achieved **0.985 AUC-ROC** (0.9845 AUC / 0.9693 PR-AUC) outperforming LightGBM baseline (0.6709 AUC), XGBoost (0.6692 AUC), and Logistic Regression (0.6513 AUC).
+- ⚖️ **Compliance & XAI**: Basel III compliant, **SHAP TreeExplainer** feature attributions, and **ECOA Fair Lending Demographic Audits** certifying zero disparate impact under CFPB rules.
+- 🎨 **Web Interface**: Custom Flask production app featuring a Dark Mode Glassmorphism UI with real-time LLM streaming.
+- 🛠️ **Tech Stack**: `Python` `PyTorch` `Hugging Face` `QLoRA` `LightGBM` `XGBoost` `SHAP` `Llama-3.3-70B` `Mistral-7B` `Flask` `Streamlit`
 - 🔗 **Repository**: [github.com/JayKalbi/institutional-risk-engine](https://github.com/JayKalbi/institutional-risk-engine)
 
-#### 🔍 [Enterprise Hybrid RAG Engine for SEC 10-K QA](https://github.com/JayKalbi/hybrid-rag-engine)
-> *Enterprise-grade hybrid retrieval and question-answering system for financial filing analysis.*
-- ⚙️ **Retrieval**: Combines **Dense Vector Embeddings** (ChromaDB) with **BM25 Keyword Search** via **Reciprocal Rank Fusion (RRF)** and **Cross-Encoder Reranking**.
-- 🧠 **Generation**: Grounded generation powered by **Llama 3** with dynamic citation validation to eliminate hallucinations.
-- 🛠️ **Tech Stack**: `Python` `Llama 3` `LangChain` `ChromaDB` `BM25` `Cross-Encoders` `Streamlit`
+#### 🔍 [Enterprise Hybrid RAG Intelligence Engine](https://github.com/JayKalbi/hybrid-rag-engine)
+> *Production-hardened hybrid retrieval-augmented generation system for SEC 10-K financial document question-answering.*
+- ⚙️ **Retrieval Pipeline**: Multi-stage retrieval combining **Dense Vector Search** (`all-MiniLM-L6-v2` in ChromaDB) and **Sparse Search** (BM25 Okapi) merged via **Reciprocal Rank Fusion (RRF)**, followed by a **Cross-Encoder Reranker** (`ms-marco-MiniLM-L-6-v2`).
+- 🧠 **Grounded Generation**: Powered by **Llama 3.1 8B Instant** (Groq) with automated inline citation validation to eliminate hallucinations. Automated **LLM-as-Judge** evaluation using **Llama 3.3 70B**.
+- 🛠️ **Tech Stack**: `Python` `LangChain` `ChromaDB` `BM25 Okapi` `Cross-Encoder` `Llama 3.1 8B` `Llama 3.3 70B` `Flask` `Waitress` `Docker` `GitHub Actions`
 - 🔗 **Repository**: [github.com/JayKalbi/hybrid-rag-engine](https://github.com/JayKalbi/hybrid-rag-engine)
 
 #### 💡 [Intelligent Edge Automation System (SSIP Funded ₹1.2 Lakh)](https://github.com/JayKalbi/JetsonNano-OpenCV-Mediapipe-SetUP)
 > *Award-winning real-time computer vision & automation platform deployed on edge hardware.*
 - 🏅 **Grant & IP**: Awarded **₹1,20,000 grant** under Student Startup & Innovation Policy (SSIP), Govt. of Gujarat. Pending IPR Patent.
-- ⚡ **Optimization**: Optimized using CUDA pipelines and RTSP streaming on **NVIDIA Jetson** hardware, achieving **+25% overall cost efficiency**.
-- 🛠️ **Tech Stack**: `NVIDIA Jetson` `CUDA` `OpenCV` `MediaPipe` `Python` `RTSP`
+- ⚡ **Optimization**: JetPack 4.6 on **NVIDIA Jetson Nano/Orin** with custom swapfile memory allocation, CUDA pipelines, and RTSP video streaming, achieving **+25% cost efficiency**.
+- 🛠️ **Tech Stack**: `NVIDIA Jetson` `CUDA` `OpenCV` `MediaPipe` `TensorFlow` `Python` `RTSP`
 - 🔗 **Repository**: [github.com/JayKalbi/JetsonNano-OpenCV-Mediapipe-SetUP](https://github.com/JayKalbi/JetsonNano-OpenCV-Mediapipe-SetUP)
 
-#### ✉️ [Enterprise NLP Engine: Smart Email Classification System](https://github.com/JayKalbi/Email-Classification-with-LSTM)
+#### ✉️ [Enterprise NLP Engine: Business Email Classifier](https://github.com/JayKalbi/Email-Classification-with-LSTM)
 > *Intelligent text classification pipeline built for enterprise email workflow automation.*
-- 📩 **Performance**: Trained Bidirectional LSTM neural network on 500K+ records (Enron Dataset) achieving **~90% accuracy** across Business, HR, Legal, and Finance categories.
-- 🔗 **Integration**: Connected Gmail API for real-time inbox polling with an interactive Streamlit dashboard.
-- 🛠️ **Tech Stack**: `TensorFlow/Keras` `BiLSTM` `NLP` `Gmail API` `Streamlit` `Pandas`
+- 📩 **Performance**: Trained Bidirectional LSTM neural network on **500K+ records** (Enron Email Dataset) achieving **~90% classification accuracy** across Business, HR, Legal, and Finance categories.
+- 🔬 **Analytics**: Preprocessing with KNN clustering for label reduction, PCA & t-SNE embedding visualization, Gmail API integration, and an interactive Streamlit dashboard.
+- 🛠️ **Tech Stack**: `TensorFlow/Keras` `BiLSTM` `NLP` `Scikit-Learn` `t-SNE` `PCA` `Gmail API` `Streamlit` `Pandas`
 - 🔗 **Repository**: [github.com/JayKalbi/Email-Classification-with-LSTM](https://github.com/JayKalbi/Email-Classification-with-LSTM)
 
 #### ☁️ [Production MLOps & AWS CI/CD Pipeline](https://github.com/JayKalbi/aws-ci-cd-mlproject)
 > *Automated continuous integration and continuous deployment pipeline for production machine learning models.*
-- 🛠️ **Tech Stack**: `Docker` `GitHub Actions` `AWS EC2/ECR` `Python` `Flask`
+- 🛠️ **Tech Stack**: `Docker` `GitHub Actions` `AWS EC2` `AWS ECR` `Python` `Flask`
 - 🔗 **Repository**: [github.com/JayKalbi/aws-ci-cd-mlproject](https://github.com/JayKalbi/aws-ci-cd-mlproject)
 
 ---
@@ -70,11 +71,11 @@ Currently pursuing my **M.Tech in Artificial Intelligence at NMIMS MPSTME**, I f
 
 | Domain | Technologies & Frameworks |
 | :--- | :--- |
-| **Generative AI & LLMs** | Large Language Models, PEFT / QLoRA, Fine-Tuning, Prompt Engineering, RAG, LangChain, Llama 3, Mistral-7B |
-| **Machine Learning & NLP** | LightGBM, XGBoost, Scikit-learn, TensorFlow, PyTorch, BiLSTM, SHAP (XAI), Predictive Analytics |
-| **MLOps & Infrastructure** | Docker, GitHub Actions, AWS (EC2/ECR), CI/CD for ML, Flask, Streamlit |
-| **Programming & DBs** | Python, SQL, C++, REST APIs, PDO |
-| **Edge AI & Hardware** | NVIDIA Jetson Orin NX, NVIDIA Jetson Nano, CUDA, RTSP, OpenCV |
+| **Generative AI & LLMs** | Large Language Models, PEFT / QLoRA, Fine-Tuning, Prompt Engineering, RAG, LangChain, Llama 3.3 70B, Llama 3.1 8B, Mistral-7B, Groq API |
+| **Machine Learning & NLP** | LightGBM, XGBoost, Scikit-learn, TensorFlow, PyTorch, BiLSTM, SHAP (XAI), PCA, t-SNE, Predictive Analytics |
+| **MLOps & Infrastructure** | Docker, GitHub Actions, AWS (EC2/ECR), CI/CD for ML, Flask, Waitress, Streamlit |
+| **Programming & DBs** | Python, SQL, C++, REST APIs, PHP PDO |
+| **Edge AI & Hardware** | NVIDIA Jetson Orin NX, NVIDIA Jetson Nano, CUDA, RTSP, OpenCV, MediaPipe |
 
 ---
 
@@ -85,7 +86,7 @@ Currently pursuing my **M.Tech in Artificial Intelligence at NMIMS MPSTME**, I f
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=JayKalbi&theme=dark&hide_border=true" alt="Jay's GitHub Streak" width="49%"/>
   </a>
   <a href="https://github.com/JayKalbi">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JayKalbi&theme=dark" alt="Jay's Profile Details" width="49%"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=JayKalbi&theme=github-dark&hide_border=true" alt="Jay's Activity Graph" width="49%"/>
   </a>
 </div>
 
