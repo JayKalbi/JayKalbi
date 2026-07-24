@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&height=40&lines=AI+Engineer+%7C+M.Tech+in+AI+%40+NMIMS;Building+Enterprise+LLMs+%26+Financial+AI;Specializing+in+RAG%2C+QLoRA+%26+MLOps" alt="Typing SVG" />
   </a>
 
-  <p>Building production-grade Large Language Model systems, Financial AI, Enterprise RAG, and Edge AI solutions.</p>
+  <p>Building production-grade Large Language Model systems, Financial AI, Multi-Agent Swarms, Enterprise RAG, and Edge AI solutions.</p>
 
   <p>
     <a href="https://linkedin.com/in/jaykalbi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -18,25 +18,26 @@
 
 ### 👨‍💻 About Me
 
-I am an **AI Engineer** specializing in **Large Language Models (LLMs)**, **Explainable AI (XAI)**, and **Predictive Analytics** for high-stakes enterprise applications. 
+I am an **AI Engineer** specializing in **Large Language Models (LLMs)**, **Multi-Agent Systems**, **Explainable AI (XAI)**, and **Predictive Analytics** for high-stakes enterprise applications. 
 
 Currently pursuing my **M.Tech in Artificial Intelligence at NMIMS MPSTME**, I focus on architecting hybrid ML/LLM systems, regulatory-compliant AI risk engines, multi-stage RAG pipelines, and edge-deployed computer vision systems backed by government grants.
 
 - 🎓 **Education**: M.Tech in AI @ NMIMS MPSTME (2026–Present) | B.Tech in Computer Engineering @ BVM (CGPI: 8.84)
 - 💼 **Experience**: Ex-Machine Learning Intern @ HPParam IT Solutions | Ex-Backend Intern @ TechnoGuide Infosoft
-- 🎯 **Current Focus**: Agentic RAG, Multi-Agent Orchestration, Financial AI Compliance (EU AI Act / Basel III), & Quantized LLM Fine-tuning (QLoRA)
+- 🎯 **Current Focus**: Multi-Agent Underwriting Swarms, Agentic RAG, Vasicek Macro Stress Testing, Financial AI Compliance (ECOA 80% Rule / CFPB), & Quantized LLM Fine-tuning (QLoRA)
 
 ---
 
 ### 🚀 Featured Flagship Projects
 
-#### 🏛️ [HybridCredit-LLM: Institutional Risk Engine](https://github.com/JayKalbi/institutional-risk-engine)
-> *An enterprise-grade multimodal credit risk assessment platform fusing quantitative tabular ML with Generative AI and strict Basel III regulatory auditability.*
-- ⚙️ **Multimodal Architecture**: Fuses **LightGBM** (processing HMDA tabular data for PD & ECL) with a QLoRA fine-tuned **Mistral-7B / Llama-3.3-70B** (via Groq Inference) for qualitative underwriting memorandums, ensembled via a Logistic Regression Meta-Learner.
-- 📊 **Performance Metrics**: Achieved **0.985 AUC-ROC** (0.9845 AUC / 0.9693 PR-AUC) outperforming LightGBM baseline (0.6709 AUC), XGBoost (0.6692 AUC), and Logistic Regression (0.6513 AUC).
-- ⚖️ **Compliance & XAI**: Basel III compliant, **SHAP TreeExplainer** feature attributions, and **ECOA Fair Lending Demographic Audits** certifying zero disparate impact under CFPB rules.
-- 🎨 **Web Interface**: Custom Flask production app featuring a Dark Mode Glassmorphism UI with real-time LLM streaming.
-- 🛠️ **Tech Stack**: `Python` `PyTorch` `Hugging Face` `QLoRA` `LightGBM` `XGBoost` `SHAP` `Llama-3.3-70B` `Mistral-7B` `Flask` `Streamlit`
+#### 🏛️ [HybridCredit-LLM: Institutional Multi-Agent Credit Risk Platform](https://github.com/JayKalbi/institutional-risk-engine)
+> *An institutional multimodal credit risk assessment platform fusing quantitative gradient boosting (LightGBM) with fine-tuned Mistral-7B LLMs and autonomous multi-agent underwriting swarms.*
+- ⚙️ **Multi-Agent Committee Swarm**: Implemented a 4-agent committee swarm (Quant Auditor, Macro Strategist, Compliance Officer, CRO) to debate credit limits, integrate **Vasicek CCAR macro stress shocks** (Fed Rate/Unemployment), and enforce **CFPB 12 CFR § 1026.43 Ability-to-Repay** legal citations.
+- 📊 **Performance Metrics**: Achieved **0.9845 AUC-ROC** vs. 0.6709 baseline across **415,000+ HMDA mortgage applications**. Includes W-2 / Tax 1040 Income Fraud Audit Engine.
+- ⚡ **MLOps & H100 Optimization**: Containerized microservices via **Docker & Render**; optimized **NVIDIA H100 GPU fine-tuning** (QLoRA $r=64$, bfloat16, vLLM tensor parallelism) with a 44.5 GB VRAM peak allocation.
+- ⚖️ **Compliance & XAI**: Enforced 100% ECOA Fair Lending 80% Rule compliance and SHAP game-theoretic explainability, preventing disparate impact across protected demographic cohorts.
+- 🛠️ **Tech Stack**: `Python` `PyTorch` `Hugging Face` `QLoRA (r=64)` `bfloat16` `vLLM` `LightGBM` `SHAP` `Flask` `Docker` `Render` `NVIDIA H100`
+- 🌐 **Live Demo**: [institutional-risk-engine.onrender.com](https://institutional-risk-engine.onrender.com)
 - 🔗 **Repository**: [github.com/JayKalbi/institutional-risk-engine](https://github.com/JayKalbi/institutional-risk-engine)
 
 #### 🔍 [Enterprise Hybrid RAG Intelligence Engine](https://github.com/JayKalbi/hybrid-rag-engine)
@@ -71,9 +72,10 @@ Currently pursuing my **M.Tech in Artificial Intelligence at NMIMS MPSTME**, I f
 
 | Domain | Technologies & Frameworks |
 | :--- | :--- |
-| **Generative AI & LLMs** | Large Language Models, PEFT / QLoRA, Fine-Tuning, Prompt Engineering, RAG, LangChain, Llama 3.3 70B, Llama 3.1 8B, Mistral-7B, Groq API |
+| **Generative AI & LLMs** | Multi-Agent Swarms, PEFT / 4-bit QLoRA ($r=64$, bfloat16), vLLM Tensor Parallelism, Prompt Engineering, RAG, LangChain, Llama 3.3 70B, Llama 3.1 8B, Mistral-7B, Groq API |
 | **Machine Learning & NLP** | LightGBM, XGBoost, Scikit-learn, TensorFlow, PyTorch, BiLSTM, SHAP (XAI), PCA, t-SNE, Predictive Analytics |
-| **MLOps & Infrastructure** | Docker, GitHub Actions, AWS (EC2/ECR), CI/CD for ML, Flask, Waitress, Streamlit |
+| **Financial AI & Compliance** | Credit Risk Modeling, Vasicek CCAR Macro Stress Testing, CFPB 12 CFR § 1026.43 ATR, Basel III, EU AI Act, ECOA 80% Rule Fair Lending Audits |
+| **MLOps & Infrastructure** | Docker, Render, GitHub Actions, AWS (EC2/ECR), CI/CD for ML, Flask, Waitress, Streamlit, NVIDIA H100 |
 | **Programming & DBs** | Python, SQL, C++, REST APIs, PHP PDO |
 | **Edge AI & Hardware** | NVIDIA Jetson Orin NX, NVIDIA Jetson Nano, CUDA, RTSP, OpenCV, MediaPipe |
 
