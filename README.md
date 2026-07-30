@@ -84,9 +84,7 @@ Currently pursuing my **M.Tech in Artificial Intelligence at NMIMS MPSTME**, I f
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <a href="https://github.com/JayKalbi">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=JayKalbi&theme=dark&hide_border=true" alt="Jay's GitHub Streak" width="49%"/>
-</a>
+  [![Jay's GitHub Streak](https://streak-stats.demolab.com/?user=JayKalbi&theme=dark&hide_border=true&v=999)](https://github.com/JayKalbi)
 </div>
 
 <p align="center">
