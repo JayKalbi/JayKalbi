@@ -24,11 +24,56 @@ Currently pursuing my **M.Tech in Artificial Intelligence at NMIMS MPSTME**, I f
 
 - 🎓 **Education**: M.Tech in AI @ NMIMS MPSTME (2026–Present) | B.Tech in Computer Engineering @ BVM (CGPI: 8.84)
 - 💼 **Experience**: Ex-Machine Learning Intern @ HPParam IT Solutions | Ex-Backend Intern @ TechnoGuide Infosoft
-- 🎯 **Current Focus**: Multi-Agent Underwriting Swarms, Agentic RAG, Vasicek Macro Stress Testing, Financial AI Compliance (ECOA 80% Rule / CFPB), & Quantized LLM Fine-tuning (QLoRA)
+- 🎯 **Current Focus**: Building BankOS Enterprise Banking Platform, Multi-Agent AI Systems, Cloud-Native Architecture, Agentic RAG, Financial AI, Platform Engineering, MLOps, and Quantized LLM Fine-tuning (QLoRA).
 
 ---
 
 ### 🚀 Featured Flagship Projects
+
+#### 🏦 [BankOS: Enterprise Banking Operating System](https://github.com/JayKalbi/BankOS)
+> *A production-grade, enterprise-scale banking platform reference implementation designed to mirror the engineering practices, cloud architecture, security, and platform capabilities of modern Fortune 100 financial institutions.*
+
+- 🏛️ **Enterprise Banking Platform**: Building a distributed, event-driven banking operating system with domain-driven microservices, API-first design, zero-trust security, and GitOps-managed cloud infrastructure.
+
+- ☁️ **Cloud-Native Platform Engineering**: Architecting scalable services on **AWS EKS (Kubernetes)** and **AWS Fargate**, leveraging Infrastructure as Code, GitOps workflows, and automated deployment pipelines.
+
+- ⚡ **Enterprise Infrastructure**: Integrating PostgreSQL, Kafka, Redis, MinIO, Milvus, and Snowflake to support transactional workloads, event streaming, vector search, object storage, and enterprise analytics.
+
+- 🔐 **Security & DevSecOps**: Implementing Zero Trust architecture with **HashiCorp Vault**, **SOPS**, **Trivy**, **Cosign**, **Gitleaks**, and supply-chain security following modern DevSecOps best practices.
+
+- 📊 **Observability & Reliability**: Building enterprise monitoring with **OpenTelemetry**, **Prometheus**, **Grafana**, and **Jaeger** for distributed tracing, metrics, logging, and production diagnostics.
+
+- 🤖 **AI-Ready Banking Platform**: Engineering a modular platform capable of supporting future AI-powered banking services including intelligent assistants, fraud detection, credit risk analytics, document intelligence, regulatory AI, and autonomous financial workflows.
+
+- 🛠️ **Tech Stack**:
+  `Java 21`
+  `Python 3.11`
+  `Node.js 20`
+  `Go`
+  `AWS EKS`
+  `Kubernetes`
+  `AWS Fargate`
+  `PostgreSQL`
+  `Kafka`
+  `Redis`
+  `Snowflake`
+  `Milvus`
+  `MinIO`
+  `Terraform`
+  `Crossplane`
+  `Helm`
+  `ArgoCD`
+  `OpenTelemetry`
+  `Prometheus`
+  `Grafana`
+  `Jaeger`
+  `Vault`
+  `Trivy`
+  `Cosign`
+
+- 🚧 **Status**: Enterprise architecture completed. Platform engineering foundation currently under active development.
+
+- 🔗 **Repository**: [github.com/JayKalbi/BankOS](https://github.com/JayKalbi/BankOS)
 
 #### 🏛️ [HybridCredit-LLM: Institutional Multi-Agent Credit Risk Platform](https://github.com/JayKalbi/institutional-risk-engine)
 > *An institutional multimodal credit risk assessment platform fusing quantitative gradient boosting (LightGBM) with fine-tuned Mistral-7B LLMs and autonomous multi-agent underwriting swarms.*
@@ -60,11 +105,6 @@ Currently pursuing my **M.Tech in Artificial Intelligence at NMIMS MPSTME**, I f
 - 🔬 **Analytics**: Preprocessing with KNN clustering for label reduction, PCA & t-SNE embedding visualization, Gmail API integration, and an interactive Streamlit dashboard.
 - 🛠️ **Tech Stack**: `TensorFlow/Keras` `BiLSTM` `NLP` `Scikit-Learn` `t-SNE` `PCA` `Gmail API` `Streamlit` `Pandas`
 - 🔗 **Repository**: [github.com/JayKalbi/Email-Classification-with-LSTM](https://github.com/JayKalbi/Email-Classification-with-LSTM)
-
-#### ☁️ [Production MLOps & AWS CI/CD Pipeline](https://github.com/JayKalbi/aws-ci-cd-mlproject)
-> *Automated continuous integration and continuous deployment pipeline for production machine learning models.*
-- 🛠️ **Tech Stack**: `Docker` `GitHub Actions` `AWS EC2` `AWS ECR` `Python` `Flask`
-- 🔗 **Repository**: [github.com/JayKalbi/aws-ci-cd-mlproject](https://github.com/JayKalbi/aws-ci-cd-mlproject)
 
 ---
 
