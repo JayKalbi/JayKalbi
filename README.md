@@ -85,8 +85,11 @@ Currently pursuing my **M.Tech in Artificial Intelligence at NMIMS MPSTME**, I f
 
 <div align="center">
   <a href="https://github.com/JayKalbi">
-  <img src="https://YOUR-NEW-VERCEL-URL.vercel.app/?user=JayKalbi&theme=dark&hide_border=true" alt="Jay's GitHub Streak" width="49%"/>
-</a>
+    <img src="https://jay-kalbi.vercel.app/?user=JayKalbi&theme=dark&hide_border=true" alt="Jay's GitHub Streak" width="49%"/>
+  </a>
+  <a href="https://github.com/JayKalbi">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=JayKalbi&theme=github-dark&hide_border=true" alt="Jay's Activity Graph" width="49%"/>
+  </a>
 </div>
 
 <p align="center">
