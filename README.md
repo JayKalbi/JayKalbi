@@ -121,23 +121,54 @@ Currently pursuing my **M.Tech in Artificial Intelligence at NMIMS MPSTME**, I f
 
 ---
 
-### 📊 GitHub Statistics
+## 📊 Engineering Activity
 
 <div align="center">
+
   <a href="https://github.com/JayKalbi">
-    <img src="https://streak-stats.demolab.com/?user=JayKalbi&theme=dark&hide_border=true&cache_buster=1" alt="Jay's GitHub Streak" width="49%"/>
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=JayKalbi&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=transparent"
+      alt="GitHub Statistics"
+      height="170"
+    />
   </a>
+
   <a href="https://github.com/JayKalbi">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=JayKalbi&theme=github-dark&hide_border=true" alt="Jay's Activity Graph" width="49%"/>
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayKalbi&layout=compact&hide_border=true&langs_count=8&theme=transparent"
+      alt="Most Used Languages"
+      height="170"
+    />
   </a>
+
 </div>
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/JayKalbi?label=Followers&style=for-the-badge&logo=github&color=238636" alt="Followers"/>
-  <img src="https://img.shields.io/badge/Public_Repos-21+-blue?style=for-the-badge&logo=github" alt="Public Repos"/>
-</p>
+<br/>
+
+<div align="center">
+
+  <a href="https://github.com/JayKalbi">
+    <img
+      src="https://streak-stats.demolab.com/?user=JayKalbi&theme=transparent&hide_border=true"
+      alt="Contribution Streak"
+      height="170"
+    />
+  </a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+  <img src="https://img.shields.io/github/followers/JayKalbi?style=for-the-badge&logo=github" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/JayKalbi?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github" alt="Stars"/>
+
+</div>
 
 ---
+
+
 
 ### 🤝 Let's Connect
 
